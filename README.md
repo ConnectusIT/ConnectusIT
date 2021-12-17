@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ConnectusIT
+- 👀 I’m interested in RTLS
+- 🌱 I’m currently learning RTLS
+- 💞️ I’m looking to collaborate on RTLS
+- 📫 How to reach me it@connectusglobal.com
